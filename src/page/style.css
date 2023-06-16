@@ -1,0 +1,44 @@
+/* HOME PAGE */
+:root{
+    --backgroundColor: rgb(62,62,63);
+}
+.home-page-bg{
+    background-color: var(--backgroundColor);
+}
+.home-page-img {
+    margin: 20px 10px;
+}
+.home-page-img-mac {
+    width: 80%;
+    object-fit: cover;
+    margin: 20px auto;
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(183, 181, 181, 0.2);
+}
+
+/* PHONE PAGE */
+.phone-page-bg{
+    background-color: var(--backgroundColor);
+}
+
+/* MAC PAGE */
+.mar{
+    margin-left: 500px;
+}
+
+/* DETAIL PAGE */
+.detail-page-img{
+    width: 90%;
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Home page */
+    .home-page-bg{
+    }
+
+    .card-mobile{
+        width: 100%;
+    }
+}

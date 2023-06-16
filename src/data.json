@@ -1,0 +1,513 @@
+{
+    "products": {
+        "phone": [
+            {
+                "id": 1,
+                "name": "iPhone 14",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-red-thumb-1-650x650.png",
+                "store": "128GB",
+                "price": 19290000,
+                "series": "iPhone 14"
+            },
+            {
+                "id": 2,
+                "name": "iPhone 14 Plus",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-red-thumb-1-650x650.png",
+                "store": "128GB",
+                "price": 21790000,
+                "series": "iPhone 14"
+            },
+            {
+                "id": 3,
+                "name": "iPhone 14 Pro",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289694/s16/iphone-14-pro-purple-thumb-650x650.png",
+                "store": "128GB",
+                "price": 24790000,
+                "series": "iPhone 14"
+            },
+            {
+                "id": 4,
+                "name": "iPhone 14 Pro Max",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289705/s16/iphone-14-pro-max-gold-avt-650x650.png",
+                "store": "128GB",
+                "price": 26440000,
+                "series": "iPhone 14"
+            }
+        ],
+        "mac": [
+            {
+                "id": 5,
+                "name": "Macbook Air M1 2020 7-Core GPU",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/231244/s16/macbook-air-m1-2020-spacegray-thumb-650x650.png",
+                "store": "RAM 8GB - SSD 256GB",
+                "price": 18490000,
+                "series": "Mac",
+                "type": "Air"
+            },
+            {
+                "id": 6,
+                "name": "Macbook Air M1 2020 8-Core GPU",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/264420/s16/macbook-air-m1-2020-8-core-gpu-spacegray-thumb-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 31590000,
+                "series": "Mac",
+                "type": "Air"
+            },
+            {
+                "id": 7,
+                "name": "Macbook Air M2 2022 8-Core GPU",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/282827/s16/macbook-air-m2-2022-8-core-gpu-vang-650x650.png",
+                "store": "RAM 8GB - SSD 256GB",
+                "price": 27890000,
+                "series": "Mac",
+                "type": "Air"
+            },
+            {
+                "id": 8,
+                "name": "Macbook Air M2 2022 10-Core",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/282847/s16/apple-macbook-air-m2-2022-10-core-gpu-xanh-650x650.png",
+                "store": "RAM 8GB - SSD 512GB",
+                "price": 30590000,
+                "series": "Mac",
+                "type": "Air"
+            },
+            {
+                "id": 9,
+                "name": "Macbook Air M2 2022 10-Core",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/289441/s16/apple-macbook-air-m2-2022-16gb-va%CC%80ng-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 39990000,
+                "series": "Mac",
+                "type": "Air"
+            },
+
+            {
+                "id": 10,
+                "name": "Macbook Pro 16 inch M2 2023",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/302149/s16/macbook-pro-16-inch-m2-pro-thumb-xam-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 64990000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 11,
+                "name": "Macbook Pro 14 inch M2 2023",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/302146/s16/macbook-pro-14-inch-m2-pro-thumb-xam-1-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 51900000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 12,
+                "name": "Macbook Pro 13 inch M2 2022",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/282828/s16/apple-pro-m2-2022-bac-650x650.png",
+                "store": "RAM 8GB - SSD 256GB",
+                "price": 29890000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 13,
+                "name": "Macbook Pro 13 inch M2 2022",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/282885/s16/apple-pro-m2-2022-10-core-gpu-xam-650x650.png",
+                "store": "RAM 8GB - SSD 512GB",
+                "price": 34490000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 14,
+                "name": "Macbook Pro 16 inch M1 2021",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/253706/s16/macbook-pro-16-m1-pro-2021-bac-650x650.png",
+                "store": "RAM 16GB - SSD 1TB",
+                "price": 48990000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 15,
+                "name": "Macbook Pro 13 inch M2 2022",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/283464/s16/apple-macbook-pro-m2-2022-16gb-bac-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 38390000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 16,
+                "name": "Macbook Pro 14 inch M1 2021",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/253703/s16/apple-macbook-pro-14-m1-pro-2021-xam-thumb-650x650.png",
+                "store": "RAM 16GB - SSD 1TB",
+                "price": 44990000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 17,
+                "name": "Macbook Pro 16 inch M1 2021",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/253636/s16/macbook-pro-16-m1-pro-2021-bac-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 44990000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+            {
+                "id": 18,
+                "name": "Macbook Pro 13 inch M1 2020",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/44/231255/s16/macbook-pro-13-spgry-m1-thumb-650x650.png",
+                "store": "RAM 16GB - SSD 512GB",
+                "price": 34990000,
+                "series": "Mac",
+                "type": "Pro"
+            },
+
+            {
+                "id": 19,
+                "name": "iMac 24 inch M1 2021 8-core GPU",
+                "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/5698/238056/s16/imac-24inch-pink-650x650.png",
+                "store": "RAM 8GB - SSD 512GB",
+                "price": 31990000,
+                "series": "Mac",
+                "type": "iMac"
+            }
+        ],
+    "iPad": [
+        {
+            "id": 22,
+            "name": "iPad Pro M1 12.9 inch 2021",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/269334/s16/ipad-pro-m1-129-inch-wifi-cellular-gray-650x650.png",
+            "store": "WiFi Cellular 2TB",
+            "price": 55990000,
+            "series": "iPad",
+            "type": "ProM1"
+        },
+        {
+            "id": 23,
+            "name": "iPad Pro M1 12.9 inch 2021",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/269332/s16/ipad-pro-m1-129-inch-wifi-silver-650x650.png",
+            "store": "WiFi 2TB",
+            "price": 51990000,
+            "series": "iPad",
+            "type": "ProM1"
+        },
+        {
+            "id": 24,
+            "name": "iPad Pro M1 12.9 inch 2021",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/269331/s16/ipad-pro-m1-129-inch-wifi-silver-1-650x650.png",
+            "store": "WiFi 1TB",
+            "price": 42990000,
+            "series": "iPad",
+            "type": "ProM1"
+        },
+        {
+            "id": 25,
+            "name": "iPad Pro M1 11 inch 2021",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/269330/s16/ipad-pro-m1-11-inch-cellular-wifi-silver-thumb-650x650.png",
+            "store": "WiFi Cellular 2TB",
+            "price": 50990000,
+            "series": "iPad",
+            "type": "ProM1"
+        },
+        {
+            "id": 26,
+            "name": "iPad Pro M1 11 inch 2021",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/269328/s16/ipad-pro-m1-11-inch-wifi-gray-thumb-650x650.png",
+            "store": "WiFi 2TB",
+            "price": 32690000,
+            "series": "iPad",
+            "type": "ProM1"
+        },
+
+        {
+            "id": 27,
+            "name": "iPad Pro M2 12.9 inch ",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/295468/s16/iPad-Pro-M2-129-5G-sliver-thumb-650x650.png",
+            "store": "WiFi Cellular 256GB",
+            "price": 34690000,
+            "series": "iPad",
+            "type": "ProM2"
+        },
+        {
+            "id": 28,
+            "name": "iPad Pro 12.9 inch",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-650x650.png",
+            "store": "WiFi Cellular 128GB",
+            "price": 32090000,
+            "series": "iPad",
+            "type": "ProM2"
+        },
+        {
+            "id": 29,
+            "name": "iPad Pro M2 11 inch",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/294104/s16/iPad-Pro-M2-11-sliver-thumb-1-650x650.png",
+            "store": "WiFi 128GB",
+            "price": 13990000,
+            "series": "iPad",
+            "type": "ProM2"
+        },
+
+        {
+            "id": 30,
+            "name": "iPad Air 5",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-trang-thumb-650x650.png",
+            "store": "WiFi Cellular 256GB",
+            "price": 21890000,
+            "series": "iPad",
+            "type": "Air"
+        },
+        {
+            "id": 31,
+            "name": "iPad Air 5",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-pink-650x650.png",
+            "store": "WiFi 64GB",
+            "price": 17090000,
+            "series": "iPad",
+            "type": "Air"
+        },
+        {
+            "id": 32,
+            "name": "iPad Air 5",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-trang-thumb-650x650.png",
+            "store": "WiFi 64GB",
+            "price": 14090000,
+            "series": "iPad",
+            "type": "Air"
+        },
+
+        {
+            "id": 33,
+            "name": "iPad mini 6",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/248091/s16/ipad-mini-6-startlight-650x650.png",
+            "store": "WiFi Cellular 64GB",
+            "price": 15590000,
+            "series": "iPad",
+            "type": "Mini"
+        },
+        {
+            "id": 34,
+            "name": "iPad mini 6",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-5g-pink-650x650.png",
+            "store": "WiFi 64GB",
+            "price": 12090000,
+            "series": "iPad",
+            "type": "Mini"
+        },
+        {
+            "id": 35,
+            "name": "iPad mini 6",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/248091/s16/ipad-mini-6-startlight-650x650.png",
+            "store": "WiFi 256GB",
+            "price": 16390000,
+            "series": "iPad",
+            "type": "Mini"
+        },
+
+        {
+            "id": 36,
+            "name": "iPad 10",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png",
+            "store": "WiFi 256GB",
+            "price": 15090000,
+            "series": "iPad",
+            "type": "10"
+        },
+        {
+            "id": 70,
+            "name": "iPad 10",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/293543/s16/iPad-gen-10-blue-thumb-650x650.png",
+            "store": "WiFi Cellular 64GB",
+            "price": 14390000,
+            "series": "iPad",
+            "type": "10"
+        }
+    ],
+    "Watch": [
+        {
+            "id": 39,
+            "name": "Apple Watch Ultra 49mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289818/s16/apple-watch-s8-ultra-cao-su-trang-thumbtz-650x650.png",
+            "store": "WiFi Cellular Ocean Band",
+            "price": 18990000,
+            "series": "Watch",
+            "type": "Ultra"
+        },
+        {
+            "id": 40,
+            "name": "Apple Watch Ultra 49mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289814/s16/apple-watch-s8-ultra-size-m-cam-thumbtz-650x650.png",
+            "store": "WiFi Cellular Alpine Loop M",
+            "price": 18990000,
+            "series": "Watch",
+            "type": "Ultra"
+        },
+        {
+            "id": 41,
+            "name": "Apple Watch Ultra 49mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289611/s16/apple-watch-s8-ultra-alpine-size-s-thumbtz-650x650.png",
+            "store": "WiFi Cellular Alpine Loop S",
+            "price": 23990000,
+            "series": "Watch",
+            "type": "Ultra"
+        },
+
+        {
+            "id": 42,
+            "name": "Apple Watch S8 45mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289844/s16/apple-watch-s8-lte-45mm-day-thep-den-thumbtz-650x650.png",
+            "store": "GPS Cellular dây thép",
+            "price": 19490000,
+            "series": "Watch",
+            "type": "8"
+        },
+        {
+            "id": 43,
+            "name": "Apple Watch S8 41mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289844/s16/apple-watch-s8-lte-45mm-day-thep-den-thumbtz-650x650.png",
+            "store": "GPS Cellular dây thép",
+            "price": 18990000,
+            "series": "Watch",
+            "type": "8"
+        },
+        {
+            "id": 44,
+            "name": "Apple Watch S8 45mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289836/s16/apple-watch-s8-lte-45mm-vien-thep-trang-thumbtz-650x650.png",
+            "store": "GPS Cellular",
+            "price": 18490000,
+            "series": "Watch",
+            "type": "8"
+        },
+        {
+            "id": 45,
+            "name": "Apple Watch S8 41mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289832/s16/apple-watch-s8-lte-41mm-vien-thep-xanh-den-thumbtz-650x650.png",
+            "store": "GPS Cellular",
+            "price": 17990000,
+            "series": "Watch",
+            "type": "8"
+        },
+        {
+            "id": 46,
+            "name": "Apple Watch S8 45mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289825/s16/apple-watch-s8-lte-45mm-trang-thumb-650x650.png",
+            "store": "GPS Cellular",
+            "price": 11990000,
+            "series": "Watch",
+            "type": "8"
+        },
+        {
+            "id": 47,
+            "name": "Apple Watch S8 41mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289806/s16/apple-watch-s8-lte-41mm-den-xanh-thumbttz-650x650.png",
+            "store": "GPS Cellular",
+            "price": 11990000,
+            "series": "Watch",
+            "type": "8"
+        },
+
+        {
+            "id": 48,
+            "name": "Apple Watch SE 44mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289801/s16/apple-watch-se-2022-lte-44mm-trang-thumbtz-650x650.png",
+            "store": "LTE",
+            "price": 7990000,
+            "series": "Watch",
+            "type": "SE"
+        },
+        {
+            "id": 49,
+            "name": "Apple Watch SE 40mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289799/s16/apple-watch-se-2022-lte-40mm-trang-kem-thumbtz-650x650.png",
+            "store": "LTE",
+            "price": 7290000,
+            "series": "Watch",
+            "type": "SE"
+        },
+        {
+            "id": 50,
+            "name": "Apple Watch SE 44mm",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/7077/289798/s16/apple-watch-se-2022-44mm-vien-nhom-trang-thumbtz-650x650.png",
+            "store": "LTE",
+            "price": 6790000,
+            "series": "Watch",
+            "type": "SE"
+        }
+    ],
+    "Phukien": [
+        {
+            "id": 51,
+            "name": "Adapter sạc Apple USB-C 20W",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/9499/230315/s16/114.34.03-650x650.png",
+            "price": 520000
+        },
+        {
+            "id": 52,
+            "name": "Cáp sạc USB-C Lightning 1m",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/58/259283/s16/cap-type-c-lightning-1m-apple-mm0a3-trang-650x650.png",
+            "price": 490000
+        },
+        {
+            "id": 53,
+            "name": "Ốp lưng Magsafe iPhone  14",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/60/290326/s16/op-lung-magsafe-iphone-14-pro-max-nhua-trong-apple-mpu73-thumb-650x650.png",
+            "price": 950000
+        },
+        {
+            "id": 54,
+            "name": "Magic Keyboard",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/1882/251881/s16/magic-keyboard-thumb-650x650.png",
+            "price": 2230000
+        },
+        {
+            "id": 55,
+            "name": "Apple Pencil gen 1",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/1882/237414/s16/17-650x650.png",
+            "price": 2310000
+        },
+        {
+            "id": 56,
+            "name": "Magic Keyboard full size",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/1882/255340/s16/magic-keyboard-with-numeric-keypad-mq052-thumb-1-650x650.png",
+            "price": 2720000
+        },
+        {
+            "id": 57,
+            "name": "Pin dự phòng Magsafe",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/57/266084/s16/pin-apple-magsafe-battery-pack-211221-090310-650x650.png",
+            "price": 2540000
+        },
+        {
+            "id": 58,
+            "name": "Magic Mouse",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/86/251787/s16/1-650x650.png",
+            "price": 2310000
+        },
+        {
+            "id": 59,
+            "name": "AirTag",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/10618/238092/s16/airtag-650x650.png",
+            "price": 790000
+        },
+        {
+            "id": 60,
+            "name": "Apple TV 4K 64GB",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/9118/238124/s16/apple-tv-4k-64gb-mxh02-650x650.png",
+            "price": 3590000
+        },
+        {
+            "id": 61,
+            "name": "Apple Magsafe Charger",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/58/266077/s16/adapter-sac-magsafe-cho-iphone-thumb-650x650.png",
+            "price": 1430000
+        },
+        {
+            "id": 62,
+            "name": "AirPods Pro (2nd Gen)",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/54/289781/s16/airpods-pro-2-thumb-650x650.png",
+            "price": 5990000
+        }
+    ]
+    }
+}
