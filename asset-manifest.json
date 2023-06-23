@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BApple/static/css/main.9e105213.css",
-    "main.js": "/BApple/static/js/main.40b02c4a.js",
+    "main.css": "/BApple/static/css/main.30693ef2.css",
+    "main.js": "/BApple/static/js/main.0c9d3223.js",
     "static/js/787.2c6056ac.chunk.js": "/BApple/static/js/787.2c6056ac.chunk.js",
     "index.html": "/BApple/index.html",
-    "main.9e105213.css.map": "/BApple/static/css/main.9e105213.css.map",
-    "main.40b02c4a.js.map": "/BApple/static/js/main.40b02c4a.js.map",
+    "main.30693ef2.css.map": "/BApple/static/css/main.30693ef2.css.map",
+    "main.0c9d3223.js.map": "/BApple/static/js/main.0c9d3223.js.map",
     "787.2c6056ac.chunk.js.map": "/BApple/static/js/787.2c6056ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e105213.css",
-    "static/js/main.40b02c4a.js"
+    "static/css/main.30693ef2.css",
+    "static/js/main.0c9d3223.js"
   ]
 }
